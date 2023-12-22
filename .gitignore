@@ -1,0 +1,19 @@
+.vscode
+.DS_Store
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.prof
+*.pprof
+*.trace
+.cov
+bin/
+vendor/
+# Ignore go module cache
+/.cache/
+/go.sum
