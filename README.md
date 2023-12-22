@@ -2,7 +2,12 @@
 
 - [x] *LRU Cache* — Least Recently Used (LRU) cache.
 - [x] *Matrix Operations* — Matrix operations like addition, subtraction, multiplication, and transpose.
-- [] *TCP/UDP Server* — Write a simple TCP/UDP server.
+- [x] *HTTP Server* — Write a simple HTTP server from scratch at the socket layer.
+  - [] *Routing*
+  - [] *Body parsing*
+  - [] *Error handling*
+  - [] *Connection pooling*
+  - [] *Static file serving*
 - [] *Linked List* —  Singly linked list with methods to add an element, delete an element, and display the list.
 - [] *Binary Search Tree* — Binary search tree with methods for insertion, deletion, and in-order traversal.
 - [] *Depth-First Search and Breadth-First Search* — DFS and BFS algorithms on a graph data structure that you create.
