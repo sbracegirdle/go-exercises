@@ -44,4 +44,4 @@ Algorithms
 Games
 
 - [] *Chess*
-- [] *Tic tac toe*
+- [x] *Tic tac toe*
