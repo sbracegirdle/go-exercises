@@ -10,8 +10,8 @@ Data structures
 - [ ] *Circular Queue:* Implement a circular queue using an array.
 - [ ] *Priority Queue:* Implement a priority queue.
 - [ ] *Trees*
-  - [ ] *Binary tree*
-  - [ ] *Binary search tree (BST)* — A binary tree where for each node, all elements in the left subtree are less than the node, and all elements in the right subtree are greater.
+  - [x] *Binary tree*
+  - [x] *Binary search tree (BST)* — A binary tree where for each node, all elements in the left subtree are less than the node, and all elements in the right subtree are greater.
   - [ ] *AVL tree* — A self-balancing binary search tree, where the difference of heights of left and right subtrees cannot be more than one for all nodes.
   - [ ] *Binary Heap* — A special tree-based data structure that satisfies the heap property. If P is a parent node of C, then the key (the value) of P is either greater than or equal to (in a max heap) or less than or equal to (in a min heap) the key of C.
   - [ ] *Red-Black Tree* — Another self-balancing binary search tree, where each node stores an extra bit for denoting the color of the node, either red or black.
@@ -21,10 +21,13 @@ Data structures
   - [ ] *Fenwick Tree* — (Binary Indexed Tree): A data structure providing efficient methods for calculation and manipulation of the prefix sums of a table of values.
 
 
+Compiling, parsing and interpreting
 
-
-
-
+- [x] *Simple arithmetic evaluator* — Simple operations such as addition.
+- [ ] *Simple interpreter* — Simple language with limited instructions like variable assignment and arithmetic.
+- [ ] *Function interpreter* — Add functions to the simple language.
+- [ ] *Byte code compiler* — Compile source into byte code that can be executed, include a simple VM to execute it.
+- [ ] *Static type checker* — Checks for type errors in source code.
 
 
 Networking
