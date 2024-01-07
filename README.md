@@ -10,7 +10,7 @@ Data structures
   - [ ] *Queue Using Stacks* — Implement a queue using stacks.
   - [ ] *Circular Queue:* Implement a circular queue using an array.
   - [ ] *Priority Queue:* Implement a priority queue.
-  - [ ] *Hash table*
+  - [x] *Hash table*
 - [ ] *Trees*
   - [x] *Binary tree*
   - [x] *Binary search tree (BST)* — A binary tree where for each node, all elements in the left subtree are less than the node, and all elements in the right subtree are greater.
@@ -26,7 +26,7 @@ Data structures
 
 Databases
 
-- [ ] *Hash Tables* — Hash tables, also known as hash maps, are used for fast data retrieval. They are key-value stores that allow for O(1) average complexity for search, insert, and delete operations.
+- [x] *Hash Tables* — Hash tables, also known as hash maps, are used for fast data retrieval. They are key-value stores that allow for O(1) average complexity for search, insert, and delete operations.
 - [ ] *Trees* — Particularly, Binary Search Trees (BST), AVL Trees, and B-Trees. These are used in databases for indexing purposes to speed up data retrieval. B-Trees and AVL Trees are self-balancing trees that maintain their height to be logarithmic of the number of entries, ensuring optimal performance.
 - [ ] *Disk I/O*
 - [ ] *Concurrency control* — Databases often handle multiple concurrent requests, so understanding concepts like locks, deadlocks, and transactions is important.
