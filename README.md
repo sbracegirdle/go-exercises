@@ -4,7 +4,7 @@ Data structures
 
 - [x] *LRU Cache* — Least Recently Used (LRU) cache.
 - [x] *Matrix Operations* — Matrix operations like addition, subtraction, multiplication, and transpose.
-- [] *Lists / collections*
+- [ ] *Lists / collections*
   - [ ] *Linked List* —  Singly linked list with methods to add an element, delete an element, and display the list.
   - [ ] *Stack Using Queues* — Implement a stack using queues.
   - [ ] *Queue Using Stacks* — Implement a queue using stacks.
@@ -22,6 +22,15 @@ Data structures
   - [ ] *Suffix Tree* — A compressed trie containing all the suffixes of the given text as their keys and positions in the text as their values. It's a powerful data structure for text processing.
   - [ ] *Segment Tree* — A tree data structure for storing intervals, or segments. It allows querying which of the stored segments contain a given point.
   - [ ] *Fenwick Tree* — (Binary Indexed Tree): A data structure providing efficient methods for calculation and manipulation of the prefix sums of a table of values.
+
+
+Databases
+
+- [ ] *Hash Tables* — Hash tables, also known as hash maps, are used for fast data retrieval. They are key-value stores that allow for O(1) average complexity for search, insert, and delete operations.
+- [ ] *Trees* — Particularly, Binary Search Trees (BST), AVL Trees, and B-Trees. These are used in databases for indexing purposes to speed up data retrieval. B-Trees and AVL Trees are self-balancing trees that maintain their height to be logarithmic of the number of entries, ensuring optimal performance.
+- [ ] *Disk I/O*
+- [ ] *Concurrency control* — Databases often handle multiple concurrent requests, so understanding concepts like locks, deadlocks, and transactions is important.
+- [ ] *Caching and buffering*
 
 
 Compiling, parsing and interpreting
