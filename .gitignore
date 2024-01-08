@@ -17,3 +17,5 @@ vendor/
 # Ignore go module cache
 /.cache/
 /go.sum
+
+db_*
